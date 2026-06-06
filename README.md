@@ -4,7 +4,7 @@ Mid-rail voltage is 5V generated using a 7905 (not 7805!! ) negative voltage reg
 7905 regulator acts as a current sink for all the circuits that need to be connected to the mid rail ground.</br>
 </br>
 There are 4 circuits for building the synth:</br>
-VCO - Voltage controlled oscillator made with a CD4046 PLL VCO chip (exponential converter by Rene Schmittz).</br>
+VCO - Voltage controlled oscillator made with a CD4046 PLL VCO chip (exponential converter by Rene Schmitz).</br>
 VCF - Voltage controlled filter inspired by Korg monotron's filter design.</br>
 VCA - Voltage controlled amplifier inspired by Korg MS10's VCA design.</br>
 ENV - Simple envelope generator inspired by Roland TB-303 controls (it just has Decay control ;P ).</br>
